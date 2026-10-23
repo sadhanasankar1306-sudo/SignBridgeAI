@@ -1,0 +1,11 @@
+# SignBridge AI — Python Dependencies
+# Compatible with Python 3.10 - 3.12
+Flask==3.0.3
+Flask-Cors==4.0.1
+Werkzeug==3.0.3
+opencv-python-headless==4.9.0.80
+mediapipe==0.10.14
+numpy==1.26.4
+scikit-learn==1.4.2
+pytest==8.2.0
+python-dotenv==1.0.1

@@ -1,0 +1,26 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>SignBridge AI — Accessible Indian Sign Language Communication Platform</title>
+    <meta name="description" content="An Accessible, Confidence-Aware Indian Sign Language (ISL) Communication Platform with Two-Way Live Translation, Research Evaluation Dashboard, and Accessibility Controls." />
+    <meta property="og:title" content="SignBridge AI — Accessible Indian Sign Language Communication Platform" />
+    <meta property="og:description" content="An Accessible, Confidence-Aware Indian Sign Language (ISL) Communication Platform with Two-Way Live Translation, Research Evaluation Dashboard, and Accessibility Controls." />
+    <meta property="og:type" content="website" />
+    <meta name="twitter:card" content="summary_large_image" />
+
+    <!-- Google Fonts: Plus Jakarta Sans & JetBrains Mono -->
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=JetBrains+Mono:wght@400;500;600&family=Plus+Jakarta+Sans:wght@400;500;600;700&display=swap" rel="stylesheet">
+
+    <!-- MediaPipe Hands & Camera Utils for Client-Side Landmark Inference -->
+    <script src="https://cdn.jsdelivr.net/npm/@mediapipe/camera_utils@0.4/camera_utils.js" crossorigin="anonymous"></script>
+    <script src="https://cdn.jsdelivr.net/npm/@mediapipe/hands@0.4/hands.js" crossorigin="anonymous"></script>
+  </head>
+  <body class="bg-white text-slate-900 antialiased selection:bg-blue-100 selection:text-blue-900 min-h-screen">
+    <div id="root"></div>
+    <script type="module" src="/src/main.tsx"></script>
+  </body>
+</html>

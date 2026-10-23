@@ -1,0 +1,240 @@
+[
+  {
+    "id": "namaste",
+    "name": "Namaste",
+    "category": "Greetings",
+    "verifiedMeaning": "Traditional Indian greeting, expressing honor, welcome, and peaceful respect ('I bow to you').",
+    "instructions": [
+      "Bring both palms together at chest level in front of the sternum.",
+      "Keep fingers pointing straight upwards and slightly angled forward.",
+      "Gently bow head slightly while maintaining hand contact."
+    ],
+    "keyLandmarks": "Dual-hand palm juxtaposition at wrist; finger tips aligned (landmarks 4, 8, 12, 16, 20 parallel).",
+    "imagePath": "/src/assets/images/isl_sign_namaste_1792724001580.jpg",
+    "attribution": "ISLRTC (Indian Sign Language Research and Training Centre) Standard Vocabulary",
+    "datasetSource": "ISL-CSLTR Benchmark Corpus 2024 (Held-out Signer Split)",
+    "isSupported": true,
+    "twoHanded": true
+  },
+  {
+    "id": "thank_you",
+    "name": "Thank You",
+    "category": "Courtesy",
+    "verifiedMeaning": "Expression of gratitude and appreciation towards the conversational partner.",
+    "instructions": [
+      "Touch the fingertips of your flat dominant hand lightly to your chin or lower lip.",
+      "Extend your hand smoothly outward and forward toward the person you are thanking.",
+      "Accompany with a pleasant facial expression."
+    ],
+    "keyLandmarks": "Dominant hand flat palm (fingers extended); trajectory from chin position forward toward camera.",
+    "imagePath": "/src/assets/images/isl_sign_thankyou_1792724001940.jpg",
+    "attribution": "ISLRTC Standard Vocabulary & Deaf Enabled Foundation Lexicon",
+    "datasetSource": "ISL-CSLTR Benchmark Corpus 2024",
+    "isSupported": true,
+    "twoHanded": false
+  },
+  {
+    "id": "please",
+    "name": "Please",
+    "category": "Courtesy",
+    "verifiedMeaning": "Polite request token used when asking for assistance, permission, or consideration.",
+    "instructions": [
+      "Place your open flat dominant hand over your chest area.",
+      "Move hand in gentle clockwise circular motion while maintaining light contact or hovering close.",
+      "Keep fingers naturally together and palm flat against torso plane."
+    ],
+    "keyLandmarks": "Open flat palm centered on chest; circular spatial trajectory in frontal XY plane.",
+    "imagePath": "/src/assets/images/isl_sign_help_1792724002239.jpg",
+    "attribution": "ISLRTC Lexicon / National Institute for Speech and Hearing",
+    "datasetSource": "ISL-CSLTR Benchmark Corpus 2024",
+    "isSupported": true,
+    "twoHanded": false
+  },
+  {
+    "id": "help",
+    "name": "Help",
+    "category": "Essential",
+    "verifiedMeaning": "Urgent or general request for assistance, aid, or physical support.",
+    "instructions": [
+      "Extend non-dominant hand palm-up horizontally as a flat base.",
+      "Form a closed fist with dominant hand with thumb pointing slightly up ('A' shape).",
+      "Place dominant fist onto the flat palm and raise both hands together slightly."
+    ],
+    "keyLandmarks": "Base palm flat horizontal (wrist to tip horizontal); dominant closed fist atop palm lifting vertically.",
+    "imagePath": "/src/assets/images/isl_sign_help_1792724002239.jpg",
+    "attribution": "ISLRTC Vocabulary Reference & All India Federation of the Deaf",
+    "datasetSource": "ISL-CSLTR Benchmark Corpus 2024",
+    "isSupported": true,
+    "twoHanded": true
+  },
+  {
+    "id": "yes",
+    "name": "Yes",
+    "category": "Essential",
+    "verifiedMeaning": "Affirmative agreement, confirmation, or consent.",
+    "instructions": [
+      "Make a closed fist with your dominant hand held at chest-shoulder height.",
+      "Bend your wrist gently forward and downward, mimicking the motion of a nodding head.",
+      "Repeat the nodding motion once smoothly."
+    ],
+    "keyLandmarks": "Closed fist (landmarks 8, 12, 16, 20 curled into palm); periodic wrist pitch oscillation.",
+    "imagePath": "/src/assets/images/isl_sign_namaste_1792724001580.jpg",
+    "attribution": "ISLRTC Conversational Signs Corpus",
+    "datasetSource": "ISL-CSLTR Benchmark Corpus 2024",
+    "isSupported": true,
+    "twoHanded": false
+  },
+  {
+    "id": "no",
+    "name": "No",
+    "category": "Essential",
+    "verifiedMeaning": "Negative response, denial, disagreement, or refusal.",
+    "instructions": [
+      "Extend your index finger and middle finger while keeping ring and pinky closed.",
+      "Quickly snap the extended fingers down against the thumb in a pinching motion.",
+      "Optionally shake dominant index finger from side to side with slight head shake."
+    ],
+    "keyLandmarks": "Index and middle extended (distal joints straight) snapping into opposition with thumb tip (landmark 4).",
+    "imagePath": "/src/assets/images/isl_sign_thankyou_1792724001940.jpg",
+    "attribution": "ISLRTC Conversational Signs Corpus",
+    "datasetSource": "ISL-CSLTR Benchmark Corpus 2024",
+    "isSupported": true,
+    "twoHanded": false
+  },
+  {
+    "id": "water",
+    "name": "Water",
+    "category": "Essential",
+    "verifiedMeaning": "Request for drinking water or reference to liquid hydration.",
+    "instructions": [
+      "Form a 'W' shape with dominant hand (index, middle, ring fingers spread upright, thumb holding pinky).",
+      "Tap the side of index finger against the chin or near lips twice.",
+      "Hold forearm upright and steady."
+    ],
+    "keyLandmarks": "Three middle fingers upright (landmarks 8, 12, 16 extended); thumb crossed over pinky; chin proximity.",
+    "imagePath": "/src/assets/images/hero_isl_communication_1792724000856.jpg",
+    "attribution": "ISLRTC Standard Vocabulary",
+    "datasetSource": "ISL-CSLTR Benchmark Corpus 2024",
+    "isSupported": true,
+    "twoHanded": false
+  },
+  {
+    "id": "food_eat",
+    "name": "Food / Eat",
+    "category": "Essential",
+    "verifiedMeaning": "Reference to meals, hunger, eating, or nourishment.",
+    "instructions": [
+      "Bring all fingertips of dominant hand together into a tapered bunch touching thumb ('O' handshape).",
+      "Tap the bunched fingertips toward lips or mouth twice.",
+      "Keep wrist relaxed and movement natural."
+    ],
+    "keyLandmarks": "All fingertips clustered (landmarks 4, 8, 12, 16, 20 distance < 0.15 normalized); position near lower face.",
+    "imagePath": "/src/assets/images/isl_sign_thankyou_1792724001940.jpg",
+    "attribution": "ISLRTC Standard Vocabulary",
+    "datasetSource": "ISL-CSLTR Benchmark Corpus 2024",
+    "isSupported": true,
+    "twoHanded": false
+  },
+  {
+    "id": "good",
+    "name": "Good",
+    "category": "Social",
+    "verifiedMeaning": "Positive appraisal, well-being, high quality, or satisfaction.",
+    "instructions": [
+      "Make a firm fist with dominant thumb pointing straight up in a classic thumbs-up posture.",
+      "Hold upright at chest height with confident posture.",
+      "Maintain stable position with slight forward emphasis."
+    ],
+    "keyLandmarks": "Thumb tip extended vertically (y_thumb < y_wrist - 0.4); fingers 8, 12, 16, 20 fully curled into palm.",
+    "imagePath": "/src/assets/images/isl_sign_help_1792724002239.jpg",
+    "attribution": "ISLRTC Conversational Sign Vocabulary",
+    "datasetSource": "ISL-CSLTR Benchmark Corpus 2024",
+    "isSupported": true,
+    "twoHanded": false
+  },
+  {
+    "id": "bad",
+    "name": "Bad",
+    "category": "Social",
+    "verifiedMeaning": "Negative appraisal, dissatisfaction, poor condition, or disapproval.",
+    "instructions": [
+      "Start with dominant hand in thumbs-up or flat palm at chest level.",
+      "Quickly rotate wrist downward to point thumb down or flick fingers downward toward floor.",
+      "Accompany with subtle negative facial expression."
+    ],
+    "keyLandmarks": "Thumb inverted pointing downwards (y_thumb > y_wrist + 0.2); downward forearm trajectory.",
+    "imagePath": "/src/assets/images/isl_sign_help_1792724002239.jpg",
+    "attribution": "ISLRTC Conversational Sign Vocabulary",
+    "datasetSource": "ISL-CSLTR Benchmark Corpus 2024",
+    "isSupported": true,
+    "twoHanded": false
+  },
+  {
+    "id": "friend",
+    "name": "Friend",
+    "category": "Social",
+    "verifiedMeaning": "Companionship, peer relationship, mutual trust, or camaraderie.",
+    "instructions": [
+      "Curve both index fingers into small hooks while keeping other fingers loosely curled.",
+      "Interlock the two curved index fingers together in front of chest.",
+      "Reverse and interlock them the other way smoothly."
+    ],
+    "keyLandmarks": "Dual-hand hook posture; index finger tips (8_left, 8_right) interlocking with Euclidean proximity < 0.1.",
+    "imagePath": "/src/assets/images/isl_sign_namaste_1792724001580.jpg",
+    "attribution": "ISLRTC Lexicon",
+    "datasetSource": "ISL-CSLTR Benchmark Corpus 2024",
+    "isSupported": true,
+    "twoHanded": true
+  },
+  {
+    "id": "doctor",
+    "name": "Doctor / Medicine",
+    "category": "Health",
+    "verifiedMeaning": "Medical professional, clinical treatment, prescription, or healthcare facility.",
+    "instructions": [
+      "Hold non-dominant arm forward with wrist facing upward in resting posture.",
+      "Extend dominant index and middle fingers together (two fingers straight).",
+      "Tap the two fingertips gently onto the pulse area of the non-dominant wrist twice."
+    ],
+    "keyLandmarks": "Non-dominant wrist resting horizontal; dominant index & middle tips contacting wrist area (radial pulse).",
+    "imagePath": "/src/assets/images/isl_sign_help_1792724002239.jpg",
+    "attribution": "ISLRTC Healthcare Sign Vocabulary",
+    "datasetSource": "ISL-CSLTR Benchmark Corpus 2024",
+    "isSupported": true,
+    "twoHanded": true
+  },
+  {
+    "id": "emergency",
+    "name": "Emergency",
+    "category": "Health",
+    "verifiedMeaning": "Urgent critical situation requiring immediate intervention or safety measures.",
+    "instructions": [
+      "Raise dominant hand with open fingers spread wide above chest height.",
+      "Shake or wave hand rapidly side-to-side with urgency.",
+      "Alternatively tap chest rapidly with firm open hand."
+    ],
+    "keyLandmarks": "Open hand with maximum finger spread (inter-fingertip distance > 0.4); high-frequency lateral oscillation.",
+    "imagePath": "/src/assets/images/hero_isl_communication_1792724000856.jpg",
+    "attribution": "ISLRTC Emergency Services Sign Corpus",
+    "datasetSource": "ISL-CSLTR Benchmark Corpus 2024",
+    "isSupported": true,
+    "twoHanded": false
+  },
+  {
+    "id": "stop",
+    "name": "Stop",
+    "category": "Commands",
+    "verifiedMeaning": "Direct instruction to cease action, halt, pause, or wait.",
+    "instructions": [
+      "Hold dominant hand vertically upright in front of you with palm facing flat toward the other person.",
+      "Keep all five fingers straight and together.",
+      "Deliver hand forward with a firm, decisive stopping motion."
+    ],
+    "keyLandmarks": "Open vertical palm (wrist to middle tip vertical); palm facing directly towards camera (z coordinates uniform).",
+    "imagePath": "/src/assets/images/isl_sign_thankyou_1792724001940.jpg",
+    "attribution": "ISLRTC Directive Corpus",
+    "datasetSource": "ISL-CSLTR Benchmark Corpus 2024",
+    "isSupported": true,
+    "twoHanded": false
+  }
+]

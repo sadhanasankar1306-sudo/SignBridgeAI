@@ -1,0 +1,6 @@
+{
+  "name": "SignBridge AI",
+  "description": "An Accessible, Confidence-Aware Indian Sign Language (ISL) Communication Platform with Two-Way Live Translation, Research Evaluation Dashboard, and Accessibility Controls.",
+  "requestFramePermissions": ["camera", "microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

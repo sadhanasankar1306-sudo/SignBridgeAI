@@ -1,0 +1,15 @@
+Sign ID,Correct,Total,Recall
+namaste,0,30,0.0
+thank_you,3,30,0.1
+please,0,30,0.0
+help,4,30,0.1333
+yes,0,30,0.0
+no,3,30,0.1
+water,2,30,0.0667
+food_eat,4,30,0.1333
+good,2,30,0.0667
+bad,2,30,0.0667
+friend,2,30,0.0667
+doctor,0,30,0.0
+emergency,0,30,0.0
+stop,0,30,0.0

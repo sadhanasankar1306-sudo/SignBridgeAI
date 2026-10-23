@@ -1,0 +1,22 @@
+{
+  "model_name": "ISL-MLP Landmark Geometry Classifier",
+  "version": "v2.4-TemporalSmoothed",
+  "classes": [
+    "namaste",
+    "thank_you",
+    "please",
+    "help",
+    "yes",
+    "no",
+    "water",
+    "food_eat",
+    "good",
+    "bad",
+    "friend",
+    "doctor",
+    "emergency",
+    "stop"
+  ],
+  "input_dim": 73,
+  "val_accuracy": 0.948
+}
